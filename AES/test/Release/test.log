@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/3/30 9:43:19。
+     1>项目“D:\学习\计算机\大三\安全学\test\test\test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\学习\vc\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(47): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+     1>main.cpp(15): warning C4101: “ch”: 未引用的局部变量
+     1>main.cpp(128): warning C4101: “ch”: 未引用的局部变量
+       Link:
+         D:\学习\vc\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习\计算机\大三\安全学\test\Release\test.exe" /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\学习\计算机\大三\安全学\test\Release\test.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习\计算机\大三\安全学\test\Release\test.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         "Release\rijndael-alg-fst.obj"
+         正在生成代码
+         已完成代码的生成
+         test.vcxproj -> D:\学习\计算机\大三\安全学\test\Release\test.exe
+     1>已完成生成项目“D:\学习\计算机\大三\安全学\test\test\test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.04
